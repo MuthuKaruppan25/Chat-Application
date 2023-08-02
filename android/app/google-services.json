@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73861962262",
+    "project_id": "chatapplication-ff35b",
+    "storage_bucket": "chatapplication-ff35b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73861962262:android:9c05de5c05bc6e64fe7337",
+        "android_client_info": {
+          "package_name": "com.example.e_horizon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73861962262-sq4j0vl05jjn4bfbb0brti5hpnbsstit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh2LQUbknZebbX4fzQWsmUuRfEXk0K4I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73861962262-sq4j0vl05jjn4bfbb0brti5hpnbsstit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
